@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,30 +44,44 @@
      inkscape:document-units="cm"
      units="cm"
      inkscape:zoom="2"
-     inkscape:cx="321.95341"
+     inkscape:cx="246.09798"
      inkscape:cy="121.63052"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" />
+     inkscape:current-layer="Layer_1"
+     inkscape:document-rotation="0" />
   <style
      id="style2">.st0{fill:none}.st1{fill:#fff}.st2{font-family:Raleway; font-weight: 100;}.st6{fill:none;stroke:#000;stroke-width:3;stroke-miterlimit:10}</style>
+  <path
+     d="M 448.07,0.4999999 438.45,17.74 430.09,32.7 369.93,140.5 H -1 V 0.4999999 Z"
+     id="path4"
+     style="fill:#d68cff;fill-opacity:1" />
+  <path
+     d="M 437.87,18.76 381.45,119.67 C 368.93,108.84 361,92.85 361,75 c 0,-32.58 26.42,-59 59,-59 6.23,0 12.24,0.97 17.87,2.76 z"
+     fill="#0b72b9"
+     id="path14"
+     style="fill:#fbb5e6;fill-opacity:1" />
+  <path
+     d="m 479,75 c 0,32.58 -26.42,59 -59,59 -14.73,0 -28.21,-5.4 -38.55,-14.33 L 437.87,18.76 C 461.72,26.33 479,48.65 479,75 Z"
+     id="path16"
+     style="fill:#d68cff;fill-opacity:1" />
   <g
-     id="g881"
-     transform="translate(2,-0.5000001)">
+     id="g878"
+     transform="translate(-6.5,3.5)">
     <text
        class="st1 st2"
-       font-size="64.2754px"
-       id="text10"
-       style="fill:#000000;stroke-width:1.19029"
-       x="5.9303036"
-       y="92.365738">PAPERON DEV</text>
-    <rect
-       style="fill:none;stroke:#cccccc;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect877"
-       width="479.92001"
-       height="140"
-       x="-1"
-       y="-1" />
+       font-size="57px"
+       id="text8"
+       style="font-weight:100;font-family:Raleway;fill:#000000"
+       x="211.92407"
+       y="111.87305">Dev</text>
+    <text
+       class="st1 st2"
+       font-size="57px"
+       id="text8-9"
+       style="font-weight:100;font-family:Raleway;fill:#000000"
+       x="90.924072"
+       y="59.873047">Paperon</text>
   </g>
 </svg>
